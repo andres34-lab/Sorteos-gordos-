@@ -1,0 +1,8 @@
+[
+  { "id": 1, "number": "00001", "owner": null, "status": "available" },
+  { "id": 2, "number": "00002", "owner": null, "status": "available" },
+  { "id": 3, "number": "00003", "owner": null, "status": "available" },
+  { "id": 4, "number": "00004", "owner": null, "status": "available" },
+  { "id": 5, "number": "00005", "owner": null, "status": "available" }
+  // ...aumentar hasta 60000
+]
